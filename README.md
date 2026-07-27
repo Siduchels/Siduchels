@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siduchels&label=Profile%20views&color=0e75b6&style=flat" alt="siduchels" /> </p>
 
-- 🌱 I’m currently learning **Jetpack Compose**
+- 🌱 I’m currently learning **Kotlin Multiplatform**
 
 - 💬 Ask me about **Android, iOS and Flutter**
 
